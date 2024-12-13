@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://twitter.com/evilsocket">
+    <img src="https://img.shields.io/twitter/follow/evilsocket?style=for-the-badge&label=%40evilsocket&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
+  </a>
+</p>
 <!--
 **vaioco/vaioco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
