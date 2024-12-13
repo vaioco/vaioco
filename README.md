@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://x.com/vaioco">
+  <a href="https://x.com/vaio_co">
     <img src="https://img.shields.io/twitter/follow/vaio_co?labelColor=black&color=7fff00">
   </a>
   <a href="https://www.linkedin.com/in/vaioco/">
